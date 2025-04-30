@@ -1,6 +1,6 @@
 # 🏦 Banking Data Analytics Project
 
-This project is a beginner-friendly end-to-end data analytics dashboard built using **MySQL** for the database and **Python (pandas, seaborn, matplotlib)** for querying and visualizing banking data. The goal is to showcase data analysis, SQL querying, and data storytelling skills applied in a banking context.
+This project is an end-to-end data analytics dashboard built using **MySQL** for the database and **Python (pandas, seaborn, matplotlib)** for querying and visualizing banking data. The goal is to showcase data analysis, SQL querying, and data storytelling skills applied in a banking context.
 
 ## 📌 Project Objective
 
@@ -23,8 +23,6 @@ To analyze and visualize key metrics for a fictional bank using realistic datase
 | SQLAlchemy        | Python-MySQL connector                                               |
 
 ---
-
-## 📁 Project Structure
 
 ## 📊 Key Analyses
 
